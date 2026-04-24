@@ -36,7 +36,6 @@ The `Statanalysis.ipynb` notebook includes:
 
 * Descriptive statistics
 * Hypothesis Testing
-* Correlation analysis
 * Key insights extraction
 
 ---
