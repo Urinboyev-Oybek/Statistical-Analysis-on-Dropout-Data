@@ -46,23 +46,6 @@ The `Statanalysis.ipynb` notebook includes:
 * Pandas
 * NumPy
 * Matplotlib / Seaborn
-* Scikit-Learn
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Urinboyev-Oybek/<repo-name>.git
-   ```
-2. Open notebooks:
-
-   ```bash
-   jupyter notebook
-   ```
-3. Run the notebooks step by step
 
 ---
 
